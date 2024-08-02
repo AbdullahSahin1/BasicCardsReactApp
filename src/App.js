@@ -13,16 +13,32 @@ function App() {
         
         <Grid container spacing={2} sx={{ marginTop: 10 }}>
           <Grid item xs={12} md={6} lg={3} >
-            
+            <Course 
+           image={Angular}
+            title="Angular"
+             description="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo labore maiores, corporis consequuntur numquam veritatis sit consequatur, fugit molestias illum nesciunt corrupti ipsa cupiditate molestiae dicta, hic consectetur asperiores commodi."
+             ></Course>
           </Grid>
           <Grid item xs={12} md={6} lg={3} >
-            
+            <Course 
+           image={Angular}
+            title="Angular"
+             description="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo labore maiores, corporis consequuntur numquam veritatis sit consequatur, fugit molestias illum nesciunt corrupti ipsa cupiditate molestiae dicta, hic consectetur asperiores commodi."
+             ></Course>
           </Grid>
           <Grid item xs={12} md={6} lg={3}>
-            
+            <Course 
+           image={Angular}
+            title="Angular"
+             description="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo labore maiores, corporis consequuntur numquam veritatis sit consequatur, fugit molestias illum nesciunt corrupti ipsa cupiditate molestiae dicta, hic consectetur asperiores commodi."
+             ></Course>
           </Grid>
           <Grid item xs={12} md={6} lg={3}>
-            
+            <Course 
+           image={Angular}
+            title="Angular"
+             description="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo labore maiores, corporis consequuntur numquam veritatis sit consequatur, fugit molestias illum nesciunt corrupti ipsa cupiditate molestiae dicta, hic consectetur asperiores commodi."
+             ></Course>
           </Grid>
         </Grid>
       </Container>
