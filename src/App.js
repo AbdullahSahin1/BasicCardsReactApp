@@ -9,6 +9,23 @@ function App() {
         <AppBar>
           <Toolbar sx={{fontSize:30, justifyContent:'center'}}>Kart Projesi</Toolbar>
         </AppBar>
+  <Container maxWidth="lg">
+        
+        <Grid container spacing={2} sx={{ marginTop: 10 }}>
+          <Grid item xs={12} md={6} lg={3} >
+            can
+          </Grid>
+          <Grid item xs={12} md={6} lg={3} >
+            can
+          </Grid>
+          <Grid item xs={12} md={6} lg={3}>
+            can
+          </Grid>
+          <Grid item xs={12} md={6} lg={3}>
+            can
+          </Grid>
+        </Grid>
+      </Container>
     </div>
   );
 }
