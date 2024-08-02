@@ -13,16 +13,16 @@ function App() {
         
         <Grid container spacing={2} sx={{ marginTop: 10 }}>
           <Grid item xs={12} md={6} lg={3} >
-            can
+            
           </Grid>
           <Grid item xs={12} md={6} lg={3} >
-            can
+            
           </Grid>
           <Grid item xs={12} md={6} lg={3}>
-            can
+            
           </Grid>
           <Grid item xs={12} md={6} lg={3}>
-            can
+            
           </Grid>
         </Grid>
       </Container>
