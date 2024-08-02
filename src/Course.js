@@ -1,6 +1,8 @@
-function Course() {
+function Course({image,title,description}) {
     return ( 
-        <div></div>
+        <div>
+            
+        </div>
      );
 }
 
