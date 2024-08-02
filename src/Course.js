@@ -5,7 +5,6 @@ function Course({image,title,description}) {
     return ( 
          <Card >
         <CardMedia
-          sx={{ height: 140 }}
           image={image} 
           title="FrameWorks"
         />
